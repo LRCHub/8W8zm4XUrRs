@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "junkie",
+  "base_artist": "swetty",
+  "createdAt": "2026-03-19T04:54:04.555562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jukebox Junkie",
+      "artist": "Ken Mellons",
+      "has_synced": false,
+      "path": "select/01_Jukebox_Junkie_Ken_Mellons.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jukebox Junkie (Album Version)",
+      "artist": "Ken Mellons",
+      "has_synced": false,
+      "path": "select/02_Jukebox_Junkie_(Album_Version)_Ken_Mellons.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Junkie and the Juicehead, Minus Me",
+      "artist": "Kris Kristofferson",
+      "has_synced": false,
+      "path": "select/03_The_Junkie_and_the_Juicehead,_Minus_Me_Kris_Kristofferson.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'm a Record Junkie und zurück",
+      "artist": "Dendemann",
+      "has_synced": false,
+      "path": "select/04_I'm_a_Record_Junkie_und_zurück_Dendemann.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Junkie",
+      "artist": "Kelis",
+      "has_synced": false,
+      "path": "select/05_Junkie_Kelis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tabloid Junkie",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_Tabloid_Junkie_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Little Less Conversation (Junkie XL Remix)",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/07_A_Little_Less_Conversation_(Junkie_XL_Remix)_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Big Bunch of Junkie Lies",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/08_Big_Bunch_of_Junkie_Lies_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Big Bunch Of Junkie Lies",
+      "artist": "Sinead O'connor",
+      "has_synced": false,
+      "path": "select/09_Big_Bunch_Of_Junkie_Lies_Sinead_O'connor.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Junkie (Demo Version)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/10_Junkie_(Demo_Version)_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Junkie (Demo)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/11_Junkie_(Demo)_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Junkie (Demo)",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/12_Junkie_(Demo)_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Emerge - Junkie XL Remix",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/13_Emerge_-_Junkie_XL_Remix_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Emerge (Junkie XL Remix)",
+      "artist": "Fischerspooner",
+      "has_synced": false,
+      "path": "select/14_Emerge_(Junkie_XL_Remix)_Fischerspooner.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Burn My Shadow (Junkie XL remix)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/15_Burn_My_Shadow_(Junkie_XL_remix)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Junkie",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/16_Junkie_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Junkie",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/17_Junkie_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Zerotonine (Junkie XL’s extended Neurotransmitter)",
+      "artist": "Junkie XL",
+      "has_synced": false,
+      "path": "select/18_Zerotonine_(Junkie_XL’s_extended_Neurotransmitter)_Junkie_XL.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Power Junkie",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/19_Power_Junkie_Billy_Idol.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "junkie",
+      "artist": "swetty",
+      "has_synced": false,
+      "path": "select/pl_01_junkie_swetty.txt"
+    }
+  ]
+}
